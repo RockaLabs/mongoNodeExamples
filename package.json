@@ -1,0 +1,20 @@
+{
+  "name": "mongoNodeExamples",
+  "version": "1.0.0",
+  "description": "Connecting to mongodb using NodeJs",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RockaLabs/mongoNodeExamples.git"
+  },
+  "author": "Sergio Alexander Florez Galeano (@xergioalex) - RockaLabs",
+  "bugs": {
+    "url": "https://github.com/RockaLabs/mongoNodeExamples/issues"
+  },
+  "dependencies": {
+    "mongodb": "~2.2.0",
+    "mongoose": "~4.5.3",
+    "object-assign": "~4.1.0",
+    "faker": "~3.1.0"
+  }
+}
